@@ -31,20 +31,3 @@ JavaScript – to calculate BMI and display results.
 Learning basic arithmetic and conditionals in JavaScript.
 
 Understanding DOM manipulation and responsive design.
-
-
-
-
-
-
-
-
-
-
-
-
-Tools
-
-
-
-ChatGPT can make mistakes. Check important info. See Cookie Preferen
